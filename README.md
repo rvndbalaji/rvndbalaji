@@ -1,1 +1,1 @@
-### Hello, you curious human (or AI) 👋
+### Hello curious human (or AI) 👋
