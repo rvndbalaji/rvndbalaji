@@ -13,4 +13,10 @@
 
 - I get excited about anything related to code 😬
 
-- I'm Aravind (It means 'Lotus' in Sanskrit)
+- I'm **Aravind** (It means _Lotus_ in Sanskrit)
+
+----
+
+✉️  aravind.balaji@live.com
+
+📞 +91 8762315968
