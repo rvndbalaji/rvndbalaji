@@ -1,11 +1,11 @@
 ### Hello human 👋
-### .....or AI? 😦
+### ..... or AI? 😦
 
 - I love to build things 🖥
 
 - I love to brainstorm ideas 💡
 
-- Full Stack Developer (React, Dotnet Core, SQL, Docker)
+- Full Stack Developer (React, Dotnet Core, SQL, Docker...)
 
 - ..... But it's never full is it 😪?
 
